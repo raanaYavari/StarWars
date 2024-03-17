@@ -1,0 +1,13 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">StarWars</string>
+    <string name="error">Error</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="height_in_cm">Height in cm</string>
+    <string name="height_in_feet">Height in feet</string>
+    <string name="character_detail">Character Detail</string>
+    <string name="cm">cm</string>
+    <string name="feet">feet</string>
+</resources>
